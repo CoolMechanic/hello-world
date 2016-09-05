@@ -1,2 +1,1 @@
-# hello-world
-just a repo
+hello ansh i am learning hit hub
